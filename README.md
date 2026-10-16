@@ -19,4 +19,4 @@ Este repositorio contiene el Taller 2 del segundo corte de la asignatura Desarro
 
 ## Archivo del trabajo
 
-Consulta el documento completo en [taller-2.md](./taller-2.md).
+Consulta el documento completo en [taller-2-2.md](./taller-2-2.md).
