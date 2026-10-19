@@ -15,7 +15,7 @@ El desarrollo web actual necesita interfaces que respondan a las acciones de los
 
 React es una biblioteca de JavaScript utilizada para construir interfaces de usuario, es decir, la parte de una aplicación con la que las personas interactúan. Con React se pueden crear elementos como botones, formularios, menús, tarjetas y páginas completas, organizándolos en componentes que pueden reutilizarse.
 
-React fue creado originalmente por **Jordan Walke**, ingeniero de Facebook —actualmente Meta—, y se publicó como proyecto de código abierto en **mayo de 2013** [1][2].
+React fue creado originalmente por **Jordan Walke**, ingeniero de Facebook —actualmente Meta—, y se publicó como proyecto de código abierto en **mayo de 2013**.
 
 ### ¿Es una librería o un framework?
 
@@ -25,7 +25,7 @@ React se concentra en construir interfaces. Para otras necesidades, como la nave
 
 ### ¿Qué significa que sea declarativo?
 
-Que React sea declarativo significa que el programador describe **cómo debe verse la interfaz según los datos actuales**, en lugar de escribir manualmente cada paso para cambiar los elementos de la página. Por ejemplo, se puede indicar que un mensaje aparezca cuando una variable sea verdadera; React se encarga de actualizar la interfaz cuando cambian los datos correspondientes [3].
+Que React sea declarativo significa que el programador describe **cómo debe verse la interfaz según los datos actuales**, en lugar de escribir manualmente cada paso para cambiar los elementos de la página. Por ejemplo, se puede indicar que un mensaje aparezca cuando una variable sea verdadera; React se encarga de actualizar la interfaz cuando cambian los datos correspondientes.
 
 ## Punto 2. ¿Qué problema resuelve React?
 
@@ -217,7 +217,7 @@ Estas herramientas no son todas parte del núcleo de React; forman parte del eco
 
 ### Comunidad y mantenimiento
 
-React es un proyecto de código abierto. Su desarrollo está coordinado por un equipo de trabajo y cuenta con contribuciones de desarrolladores de diferentes empresas y comunidades [4]. Meta mantiene una participación importante, pero el proyecto también recibe aportes externos. La documentación, las herramientas y la actividad de la comunidad ayudan a resolver dudas y a mantener actualizado el conocimiento sobre la biblioteca.
+React es un proyecto de código abierto. Su desarrollo está coordinado por un equipo de trabajo y cuenta con contribuciones de desarrolladores de diferentes empresas y comunidades. Meta mantiene una participación importante, pero el proyecto también recibe aportes externos. La documentación, las herramientas y la actividad de la comunidad ayudan a resolver dudas y a mantener actualizado el conocimiento sobre la biblioteca.
 
 ### Relevancia para un desarrollador front-end
 
@@ -227,13 +227,13 @@ Aprender React puede ser valioso para un desarrollador front-end porque permite 
 
 ### 5.1. Meta: Facebook e Instagram
 
-Meta utiliza React en productos web. En una publicación de ingeniería de 2020, la empresa explicó cómo reconstruyó partes importantes de Facebook.com utilizando React para construir una experiencia interactiva y declarativa [5]. Además, en un artículo técnico sobre la mensajería de Instagram para escritorio, Meta describió una sección desarrollada con componentes funcionales de React y Hooks [6].
+Meta utiliza React en productos web. En una publicación de ingeniería de 2020, la empresa explicó cómo reconstruyó partes importantes de Facebook.com utilizando React para construir una experiencia interactiva y declarativa. Además, en un artículo técnico sobre la mensajería de Instagram para escritorio, Meta describió una sección desarrollada con componentes funcionales de React y Hooks.
 
 **¿Por qué es relevante?** Facebook e Instagram tienen interfaces con actualizaciones frecuentes, múltiples tipos de contenido y muchas interacciones. El uso de componentes y del estado ayuda a organizar partes de esas interfaces y a mantenerlas actualizadas. Estos ejemplos son relevantes porque documentan el uso de React en productos reales de gran escala.
 
 ### 5.2. Airbnb
 
-Airbnb también trabaja con React. En un artículo técnico de su equipo de ingeniería, la empresa explicó que adoptó React Testing Library para el desarrollo de pruebas de sus componentes React y describió una migración de miles de archivos de pruebas desde Enzyme [7].
+Airbnb también trabaja con React. En un artículo técnico de su equipo de ingeniería, la empresa explicó que adoptó React Testing Library para el desarrollo de pruebas de sus componentes React y describió una migración de miles de archivos de pruebas desde Enzyme.
 
 **¿Por qué es relevante?** El caso muestra que React no solo se utiliza para crear elementos visuales: también influye en las prácticas de pruebas y mantenimiento de aplicaciones grandes. La experiencia publicada por Airbnb sirve como evidencia técnica de su trabajo con componentes React, aunque el artículo se centra específicamente en las pruebas y no pretende describir toda la arquitectura del producto.
 
